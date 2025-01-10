@@ -1,3 +1,9 @@
 numpy
 pandas
 matplotlib
+seaborn
+re
+nltk
+gensim
+scikit-learn
+tensorflow

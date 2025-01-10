@@ -9,12 +9,6 @@ This project explores sentiment analysis on user comments extracted from social 
 - **Dataset**: User comments sourced from social media.
 - **Preprocessing**: Includes text cleaning, tokenization, and feature extraction (TF-IDF, Word2Vec).
 - **Models**:
-  - Machine Learning: Logistic Regression, Support Vector Machines (SVM), Random Forest.
-  - Deep Learning: Feedforward Neural Networks, LSTM, GRU.
+  - Machine Learning: Logistic Regression, Support Vector Machines (SVM), Naive Bayes, Random Forest, AdaBoost.
+  - Deep Learning: Long Short-Term Memory.
 - **Evaluation**: Models are compared using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
